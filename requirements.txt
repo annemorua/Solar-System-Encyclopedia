@@ -1,0 +1,4 @@
+tkinter
+pytest
+pillow
+numpy
