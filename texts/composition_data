@@ -1,0 +1,11 @@
+{
+    "mercury": {"Potassium": 31.7, "Sodium": 24.9, "Atomic Oxygen": 9.5, "Argon": 7, "Helium": 5.9, "Molecular Oxygen": 5.6, "Nitrogen": 5.2, "Carbon Dioxide": 3.6, "Water": 3.4, "Hydrogen": 3.2},
+    "venus": {"Carbon Dioxide": 96, "Nitrogen": 3, "Sulfur dioxide": 0.015, "Water steam": 0.002, "Carbon monoxide": 0.0017, "Argon": 0.007, "Helium": 0.0012, "Neon": 0.0007},
+    "earth": {"Nitrogen": 78.08, "Oxygen": 20.95, "Argon": 0.93},
+    "mars": {"Carbon Dioxide": 95.32, "Nitrogen": 2.7, "Argon": 1.6, "Oxygen": 0.13, "Carbon monoxide": 0.08, "Water steam": 0.021, "Nitrous oxide": 0.01},
+    "jupiter": {"Hydrogen": 81, "Helium": 17, "Methane": 0.1, "Water steam": 0.1, "Ammonia": 0.02, "Ethane": 0.0002, "Phosphane": 0.0001, "Hydrogen sulfide": 0.0001},
+    "saturn": {"Hydrogen": 93, "Helium": 5, "Methane": 0.2, "Water steam": 0.1, "Ammonia": 0.01, "Ethane": 0.0005, "Phosphane": 0.0001},
+    "uranus": {"Hydrogen": 83, "Helium": 15, "Methane": 1.99, "Ammonia": 0.01, "Ethane": 0.00025, "Acetylene": 0.00001},
+    "neptune": {"Hydrogen": 84, "Helium": 12, "Methane": 2, "Ammonia": 0.01, "Ethane": 0.00025, "Acetylene": 0.00001},
+    "sun": {"Hydrogen": 73.46, "Helium": 24.85, "Oxygen": 0.78, "Carbon": 0.3, "Iron": 0.16, "Neon": 0.12, "Nitrogen": 0.09, "Silicon": 0.07, "Magnesium": 0.06, "Sulfur": 0.05}
+}
