@@ -1,0 +1,65 @@
+phy_title:
+Mean radius\n\n\nSurface area\n\n\nVolume\n\n\nMass\n\n\nSurface gravity\n\nAverage surface temperature
+
+orb_title:
+Orbital period\n\nRotation period\n\nSatellites
+
+physical_mercury:
+2,439.7 ± 1.0 km\n0.3829 Earths\n\n7.48×10⁷ km²\n0.147 Earths\n\n6.083×10¹⁰ km³\n0.056 Earths\n\n3.3011×10²³ kg\n0.055 Earths\n\n3.7 m/s²\n\n0° N, 0° W 67° C\n85° N, 0° W -73° C
+
+orbital_mercury:
+87.9691 d\n\n58.646 d\n\n0
+
+physical_venus:
+6,051.8±1.0 km\n0.9499 Earths\n\n4.6023×10⁸ km²\n0.902 Earths\n\n9.2843×10¹¹ km³\n0.857 Earths\n\n4.8675×10²⁴ kg\n0.815 Earths\n\n8.87 m/s²\n\n464 ° C
+
+orbital_venus:
+224.701 d\n\n243.02 d\n\n0
+
+physical_earth:
+6371.0 km\n\n510 072 000 km²\nLand: 148 940 000 km²\nWater: 361132000 km²\n\n1.08321×10¹² km³\n\n\n5.972168×10²⁴ kg\n\n\n9.80665 m/s²\n\n14.76 ° C
+
+orbital_earth:
+365.256 d\n\n23h 56 m 4.100s\n\n1
+
+physical_mars:
+3396.2±0.1 km\n0.533 Earths\n\n1.4437×10⁸ km²\n0.284 Earths\n\n1.63118×10¹¹ km³\n0.151 Earths\n\n6.4171×10²³ kg\n0.107 Earths\n\n3.72076 m/s²\n\n−60 ° C
+
+orbital_mars:
+686.980 d\n\n24h 37m 22.7s\n\n2
+
+physical_jupiter:
+69,911 km\n10.973 Earths\n\n6.1469×10¹⁰ km²\n120.4 Earths\n\n1.4313×10¹⁵ km³\n1,321 Earths\n\n1.8982×10²⁷ kg\n317.8 Earths\n\n24.79 m/s²\n\n-108.15 ° C
+
+orbital_jupiter:
+11.862 yr\n\n9 h 55 m 30 s\n\n95
+
+physical_saturn:
+58,232 km\n9.1402 Earths\n\n4.27×10¹⁰ km²\n83.703 Earths\n\n8.2713×10¹⁴ km³\n763.59 Earths\n\n5.6834×10²⁶ kg\n95.159 Earths\n\n10.44 m/s²\n\n-139.15 ° C
+
+orbital_saturn:
+29.4475 yr\n\n10h 33m 38s\n\n146
+
+physical_uranus:
+25,559±4 km\n4.007 Earths\n\n8.1156×10⁹ km²\n15.91 Earths\n\n6.833×10¹³ km³\n63.086 Earths\n\n8.6810×10²⁵ kg\n14.536 Earths\n\n8.69 m/s²\n\n−197.2 ° C
+
+orbital_uranus:
+84.0205 yr\n\n17 h 14 min 24 s\n\n28
+
+physical_neptune:
+24,764±15 km\n3.883 Earths\n\n7.6187×10⁹ km²\n14.98 Earths\n\n6.253×10¹³ km³\n57.74 Earths\n\n1.02409×10²⁶ kg\n17.147 Earths\n\n11.15 m/s²\n\n−201 ° C
+
+orbital_neptune:
+164.8 yr\n\n16 h 6 min 36 s\n\n16
+
+phy_sun_title:
+Mean radius\n\n\nSurface area\n\n\nVolume\n\n\nMass\n\n\nAge\n\nSurface gravity\n\nTemperature\n\n\nLuminosity
+
+orb_sun_title:
+Orbital period around the galactic center\n\nRotation period\n\n\nMean distance from Milky Way core
+
+physical_sun:
+6.957 x 10⁵ km\n54.5 Earths\n\n6.09×10¹⁹ km²\n12,000 Earths\n\n1.412×10¹⁸ km³\n1,300,000 Earths\n\n1.9885×10³⁰ kg\n332,950 Earths\n\n4.6 billion years\n\n274 m/s²\n\n15699726.85 ° C (center)\n5498.85 ° C (surface)\n\n3.828×10²⁶ W\n3.75×10²⁸ lm
+
+orbital_sun:
+2.25 - 2.50 × 10⁸ yr\n\n\n25.05 days (equator)\n34.4 days (poles)\n\n2.5×10¹⁷ km\n26,000 light-years
